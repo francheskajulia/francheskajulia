@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I am Francheska Julia Gonzales
+
+An inspiring Frontend Developer from Philippines
 
 <!--
 **francheskajulia/francheskajulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
